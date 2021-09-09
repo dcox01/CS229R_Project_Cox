@@ -4,6 +4,8 @@ COMPSCI 229R: **Topics in Theoretical Computer Science: Biology and Complexity**
 Spring 2021 Harvard.   
 Daniel H. Cox
 
+## Title: Development of Modularity in Neural Networks
+
 This respository contains a writeup and code for a project done by Dan Cox for a class CS299R at Harvard in the spring of 2021. The write up is a paper-like description of the project
 
 ## Contains:
