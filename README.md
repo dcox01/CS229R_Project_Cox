@@ -1,13 +1,18 @@
 # CS229R_Project_Cox
 
+COMPSCI 229R: **Topics in Theoretical Computer Science: Biology and Complexity**
+Spring 2021 Harvard
+
 Code for final project by Dan Cox
-CS229R Spring 2021 Harvard
+
+This respository contains a writeup and code for a CS299R Project done by Dan Cox for a class at Harvard. The write up is a paper-like description of the project
 
 ##EXPS
 
 Contains:
 
-*  Jupyter notebooks, one for each experiment
+* Project Writeup
+* Jupyter notebooks, one for each experiment
 * Pickled python dataframes, each beginning with df
 * n_cut, a python package to be used with the enclosed notebooks.
 * Jupyter notebooks for combining the data for analysis
