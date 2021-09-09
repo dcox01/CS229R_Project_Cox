@@ -1,6 +1,6 @@
 # CS229R_Project_Cox
 
-COMPSCI 229R: **Topics in Theoretical Computer Science: Biology and Complexity**
+COMPSCI 229R: **Topics in Theoretical Computer Science: Biology and Complexity**.  
 Spring 2021 Harvard
 
 Code for final project by Dan Cox
