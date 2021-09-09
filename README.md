@@ -14,7 +14,7 @@ This respository contains a writeup and code for a project done by Dan Cox for a
 * A set of presentation slides for a presentation given at the projects halfway point. (Project_Slides_at_Halfway.pptx)
 * Jupyter notebooks, one for each experiment
 * Pickled python dataframes, each beginning with df
-* n_cut, **a python package** to be used with the enclosed notebooks.
+* n_cut, **a custom made python package** to be used with the enclosed notebooks.
 * Jupyter notebooks for combining the data for analysis
 * Pickled combined dataframes
 
