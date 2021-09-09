@@ -5,13 +5,11 @@ Spring 2021 Harvard
 
 Code for final project by Dan Cox
 
-This respository contains a writeup and code for a CS299R Project done by Dan Cox for a class at Harvard. The write up is a paper-like description of the project
+This respository contains a writeup and code for a CS299R Project done by Dan Cox for a class at Harvard Spring 2021. The write up is a paper-like description of the project
 
-##EXPS
+## Contains:
 
-Contains:
-
-* Project Writeup
+* A Project Writeup (in the style of a scientific paper)
 * Jupyter notebooks, one for each experiment
 * Pickled python dataframes, each beginning with df
 * n_cut, a python package to be used with the enclosed notebooks.
