@@ -10,7 +10,7 @@ This respository contains a writeup and code for a project done by Dan Cox for a
 
 ## Contains:
 
-* A Project Writeup (in the style of a scientific paper)
+* A Project Writeup (in the style of a scientific paper) ** Read first **
 * Jupyter notebooks, one for each experiment
 * Pickled python dataframes, each beginning with df
 * n_cut, a python package to be used with the enclosed notebooks.
