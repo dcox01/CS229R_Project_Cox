@@ -6,7 +6,7 @@ Daniel H. Cox
 
 ## Title: Development of Modularity in Neural Networks
 
-This respository contains a writeup and code for a project done by Dan Cox for a class CS299R at Harvard in the spring of 2021. The write up is a paper-like description of the project
+This respository contains a writeup and code for a project done by Dan Cox for a class CS299R at Harvard in the spring of 2021. The write up is a paper-like description of the project.
 
 ## Contains:
 
