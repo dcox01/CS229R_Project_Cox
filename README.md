@@ -1,11 +1,10 @@
 # CS229R_Project_Cox
 
 COMPSCI 229R: **Topics in Theoretical Computer Science: Biology and Complexity**.  
-Spring 2021 Harvard
+Spring 2021 Harvard.   
+Daniel H. Cox
 
-Code for final project by Dan Cox
-
-This respository contains a writeup and code for a CS299R Project done by Dan Cox for a class at Harvard Spring 2021. The write up is a paper-like description of the project
+This respository contains a writeup and code for a project done by Dan Cox for a class CS299R at Harvard in the spring of 2021. The write up is a paper-like description of the project
 
 ## Contains:
 
